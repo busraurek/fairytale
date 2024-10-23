@@ -1,0 +1,13 @@
+<ion-content>
+  <div class="section" [style.background-image]="'url(' + story?.coverImage + ')'">
+    <div class="container">
+      <!-- <div class="imgBox">
+        <img [src]="story?.coverImage" alt="{{ story?.title }}" />
+      </div> -->
+      <div class="text">
+        <h1>{{ story?.title }}</h1>
+        <p *ngFor="let paragraph of story?.story">{{ paragraph }}</p>
+      </div>
+    </div>
+  </div>
+</ion-content>

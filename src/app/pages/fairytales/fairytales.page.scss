@@ -1,0 +1,44 @@
+ion-content {
+  --background: #eecad5;
+  .section {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    ion-grid {
+      ion-row {
+        max-width: 1450px;
+        margin: 0 auto;
+        ion-col {
+          ion-card {
+            height: 450px;
+            border-radius: 20px;
+            transition: transform 0.8s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+            ion-card-header {
+              padding: 10px;
+              border-radius: 5px;
+              ion-card-title {
+                font-size: 1.4rem;
+                font-weight: bold;
+              }
+
+              ion-card-subtitle {
+                font-size: 1.1rem;
+              }
+            }
+            ion-card-content {
+              height: 400px;
+              background-size: cover;
+              background-repeat: no-repeat;
+              color: #fff;
+            }
+            &:hover {
+              transform: scale(1.02);
+              box-shadow: 0 10px 20px rgba(140, 61, 143, 0.973);
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+ion-content {
+  --background: transparent !important;
+  background-image: url(../../../assets/img/bg3.jpg);
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  --margin-top: 100px;
+}
+
+.container {
+  max-width: 1200px;
+  width: 1200px;
+  height: 500px;
+  margin: 0 auto;
+  background: rgba(113, 113, 114, 0.4);
+  border: 2px solid var(--fairy-sparkle);
+  border-radius: 15px;
+  box-shadow: 0 0 15px var(--fairy-glow);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  animation: sparkle 3s infinite ease-in-out;
+}
+.text h1 {
+  font-family: "Great Vibes", cursive;
+  font-size: 70px;
+  font-weight: 600;
+  color: #fff;
+  text-shadow: 2px 2px 12px var(--fairy-sparkle);
+}
+
+.text h3 {
+  font-family: "Dancing Script", cursive;
+  font-size: 40px;
+  font-weight: 500;
+  color: #fff;
+  text-shadow: 1px 1px 10px var(--fairy-sparkle);
+}
+
+ion-buttons {
+  display: flex;
+  justify-content: right;
+}
+ion-button {
+  margin: 20px;
+  background-color: var(--button-glow);
+  color: #e9921f;
+  border-radius: 50px;
+  padding: 15px 30px;
+  font-weight: 600;
+  font-size: 22px;
+  transition: 0.5s;
+  box-shadow: 0 0 15px var(--button-glow), 0 0 20px var(--button-glow);
+  cursor: pointer;
+}
+
+ion-button:hover {
+  box-shadow: 0 0 30px var(--button-glow), 0 0 40px var(--button-glow);
+  transform: scale(1.05);
+  transition: 0.5s;
+}
+
+.sparkle-effect {
+  animation: sparkle 5s infinite;
+}

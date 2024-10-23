@@ -1,3 +1,49 @@
-<ion-app>
-  <ion-router-outlet></ion-router-outlet>
-</ion-app>
+<!-- Side Menu -->
+<ion-menu contentId="main" *ngIf="!isDesktop">
+  <ion-content>
+    <ion-list lines="inset">
+      <img class="mobile-logo" src="assets/icon/logo.png" alt="logo" />
+      <ion-list-header>
+        <ion-label></ion-label>
+      </ion-list-header>
+
+      <ion-item-divider>
+        <ion-label></ion-label>
+      </ion-item-divider>
+
+      <ng-container *ngFor="let item of menu">
+        <ion-menu-toggle autoHide="true">
+          <ion-item class="menuItem" [routerLink]="item.url" routerLinkActive="selectedMenu" detail="false">
+            <ion-label>{{ item.title }}</ion-label>
+          </ion-item>
+        </ion-menu-toggle>
+      </ng-container>
+    </ion-list>
+  </ion-content>
+</ion-menu>
+
+<ion-header class="mobile" *ngIf="!isDesktop">
+  <ion-toolbar>
+    <div class="mobileLogo">
+      <img [routerLink]="['anasayfa']" src="assets/icon/logo.png" alt="logo" class="logo ion-text-left" />
+    </div>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-header class="desktop" *ngIf="isDesktop">
+  <ion-toolbar>
+    <nav class="toolbarNav">
+      <img [routerLink]="['anasayfa']" src="assets/icon/logo.png" class="logo ion-text-left" alt="logo" />
+      <ul class="header-menu">
+        <li *ngFor="let item of menu" class="header-item">
+          <a routerLinkActive="selected" [routerLink]="[item.url]">{{ item.title }}</a>
+        </li>
+      </ul>
+    </nav>
+  </ion-toolbar>
+</ion-header>
+
+<ion-router-outlet id=" main" [animation]="pageTransition()"></ion-router-outlet>

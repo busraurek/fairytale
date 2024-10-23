@@ -1,0 +1,214 @@
+{
+    "HEADER": {
+      "welcome": "Hoşgeldiniz",
+      "pages": "Sayfalar",
+      "MENU": [
+        {
+          "title": "Anasayfa",
+          "url": "/anasayfa"
+        },
+        {
+          "title": "Masallar",
+          "url": "/masallar"
+        },
+        {
+          "title": "İletişim",
+          "url": "/iletisim"
+        }
+      ]
+    },
+    "HOME":{
+    "button":"Keşfe Çık!",
+    "container":[
+      {
+        "title":"Masallar Diyarına Hoş Geldin!",
+        "text":" Cıvıl cıvıl renklerle dolu bu büyülü dünyada, hayal gücünün kapılarını aralayarak, hayallerini gerçeğe dönüştürebilirsin. Perilerin, masal kahramanlarının ve unutulmaz maceraların seni bekliyor!",
+        "button":""
+      },
+      {
+        "title":"Yeni Bir Maceraya Hazır Ol!",
+        "text":"Bu büyülü dünyada keşfedeceğin daha pek çok gizem ve sürpriz seni bekliyor. Hayal gücünü serbest bırak ve yolculuğa çık!",
+        "button":""
+      },
+      {
+        "title":"Masal Kahramanlarınla Tanış!",
+        "text":" Her köşede yeni arkadaşlar ve unutulmaz anılar seni bekliyor. Hazır mısın? Haydi, masal diyarına adım at!",
+        "button":"Keşfe Çık!"
+      }
+    ]
+    },
+    "FAIRYTALES":{
+      "stories":[
+        {
+          "title":"Küçük Deniz Kızı",
+          "author":"Hans Christian Andersen",
+          "coverImage": "assets/img/mermaid-2.jpg",
+          "urlTag":"kucuk-deniz-kizi",
+          "story":[
+              "Denizlerin derinliklerinde, beş deniz kızı yaşardı. En küçük deniz kızı, Ariel adında çok meraklı ve güzel biriydi. Diğer deniz kızları, yüzeye çıkıp insanlar hakkında hikayeler dinlerken, Ariel her zaman daha fazlasını istemekteydi. Onlar 15 yaşına bastıklarında, yüzeye çıkıp insanlar hakkında bilgi edinebiliyorlardı.",
+              "Bir gün, Ariel, yüzeye çıkmaya karar verdi. O sırada, büyük bir gemi geçti ve geminin üstünde yakışıklı bir prens vardı. Ariel, prensin güzelliğinden etkilendi ve onu izlerken gemi aniden bir fırtınaya yakalandı. Ariel, cesaretini toplayarak denize atladı ve prensin boğulmasına engel oldu. Onu kıyıya taşıdıktan sonra, prens gözlerini açtığında Ariel’i göremedi çünkü Ariel hemen suya geri döndü.",
+              "Ariel, prense aşık oldu ve onu unutmamak için her gün yüzeye çıkmaya başladı. İnsan olmanın ne kadar harika olduğunu düşündü. Sonunda, deniz cadısı Ursula’yla bir anlaşma yapmaya karar verdi. Ursula, Ariel’e insan olmak için sesini vermesini teklif etti. Ariel, bunu kabul etti ve Ursula ona bir büyü yaptı. Böylece Ariel, sesini kaybetmişti ama insan olarak karaya çıkabilecekti.",
+              "Ariel, insan dünyasında yaşamak için karaya çıktı ve prensi buldu. Ancak, prensi başka bir kadınla, güzel bir prensesle nişanlandığını öğrendi. Ariel’in onunla iletişim kuracak sesi yoktu ve bu durum onu çok üzüyordu. Bir süre sonra, Ariel’in prensi kazanma çabaları sonuçsuz kaldı.",
+              "Ariel, bir süre sonra prensi başka birine kaptırdığını anladı ve içindeki boşluğu hissetmeye başladı. Ursula’nın büyüsü onu hapsederken, Ariel’in ruhu deniz kızlarının ruhunu kaybetmekteydi. Masalın sonunda, Ariel, deniz köpüğüne dönüşerek denizin derinliklerine geri döndü. Artık bir deniz kızı olarak yaşamıyordu, fakat sevdiği prensin mutluluğunu uzaktan izleyerek yaşamaya devam etti."
+            ]
+        },
+        {
+          "title": "Pamuk Prenses ve Yedi Cüceler",
+          "author": "Grimm Kardeşler",
+          "coverImage": "assets/img/pamuk-prenses.jpg",
+          "urlTag":"pamuk-preneses-ve-yedi-cuceler",
+          "story":[
+            "Bir zamanlar, güzel bir kraliçe bir kız çocuğu doğurmuştu. Kraliçe, kızı doğurduğu sırada parmaklarını iğne ile batırarak 'Pamuk Prenses' olarak adlandırdığı bir kız çocuğu sahibi oldu. Ancak, kraliçe kısa bir süre sonra hastalandı ve öldü. Kral, çok geçmeden başka bir kadınla evlendi; bu kadın son derece kıskanç ve kötü kalpli biriydi.",
+            "Yeni kraliçe, sahip olduğu sihirli bir aynadan, 'Aynalarımın en güzeli, kimse senin kadar güzel değil,' diye yanıt verdiğinde, Pamuk Prenses'in güzelliğini öğrendi. Kraliçe, Pamuk Prenses'in büyüdükçe daha da güzelleşeceğinden korkuyordu. Bu nedenle, onu ormanda öldürmesi için bir avcıyı gönderdi. Fakat avcı, Pamuk Prenses'in masumiyetine ve güzelliğine dayanamadı ve ona kaçmasını söyledi.",
+            "Pamuk Prenses, ormanda koşarak bir kulübeye ulaştı. İçeri girdiğinde yedi cüceyi buldu. Cüceler, Pamuk Prenses'i orada misafir etmeye karar verdiler ve onu koruyacaklarına söz verdiler. Pamuk Prenses, cücelerle mutlu bir hayat sürmeye başladı.",
+            "Ancak kötü kalpli kraliçe, Pamuk Prenses'in hayatta olduğunu öğrenince onu bulmak için çeşitli planlar yaptı. İlk olarak, güzel bir giysiyle Pamuk Prenses'i tuzağa düşürdü. Ancak cüceler zamanında geldi ve onu kurtardı. Kraliçe, bu sefer bir zehirli elma ile geldi ve Pamuk Prenses'e verdi. Pamuk Prenses, elmayı yediğinde bayıldı ve derin bir uykuya daldı.",
+            "Cüceler, Pamuk Prenses'i bir cam tabut içinde sakladılar. Günler geçtikçe, kraliçe bu durumu öğrendi ve Pamuk Prenses'in bir prense aşık olduğunu öğrendi. Prens, Pamuk Prenses'i gördüğünde onun güzelliğine aşık oldu ve ona bir öpücük verdi. Bu öpücük, Pamuk Prenses'i uyandırdı.",
+            "Pamuk Prenses, prensi tanıdı ve birlikte mutlu bir hayat sürmeye karar verdiler. Kötü kalpli kraliçe ise bu durumu öğrendiğinde, cezalandırıldı ve krallıktan sürüldü."
+          ]
+        },
+        {
+          "title": "Kül Kedisi",
+          "author": "Charles Perrault",
+          "coverImage": "assets/img/sindirella-3.jpg",
+          "urlTag":"kul-kedisi",
+          "story":[
+            "Bir zamanlar, güzel bir genç kız olan Külkedisi, annesinin ölümünden sonra üvey annesi ve üvey kız kardeşleri tarafından kötü muameleye maruz kalıyordu. Üvey annesi, Külkedisi'ni ev işlerinde çalıştırıyor, ona kötü davranıyor ve hiçbir şekilde mutlu olmasına izin vermiyordu. Külkedisi, giydiği eski ve kirli elbiseleri yüzünden 'Külkedisi' olarak anılıyordu.",
+            "Bir gün, kral bir balo düzenledi ve tüm genç kızları davet etti. Külkedisi de baloya gitmek istedi, fakat üvey annesi ve kız kardeşleri onun gitmesine izin vermedi. Külkedisi, çok üzgün bir şekilde evde kaldı. Ancak, sihirli bir peri, Külkedisi'ni buldu ve ona yardım etmeye karar verdi. Peri, Külkedisi'ni güzelleştirdi, onu güzel bir elbiseyle giydirdi ve sihirli bir şekilde bir kabak arabaya dönüştürdü. Ancak, peri, her şeyin gece yarısı sona ereceğini, yani sihirli değişikliklerin kaybolacağını uyardı.",
+            "Külkedisi, baloya gitti ve herkes onun güzelliğine hayran kaldı. Özellikle prens, Külkedisi'ne aşık oldu. İkisi dans etti ve zamanın nasıl geçtiğini anlamadılar. Ancak gece yarısı geldiğinde, Külkedisi aceleyle balodan ayrıldı ve koşarken bir ayağındaki cam ayakkabısını düşürdü.",
+            "Prens, Külkedisi'ni kaybettiği için çok üzgün oldu ve onun ayakkabısını bulmak için tüm krallığı dolaşmaya karar verdi. Prens, her genç kızı ayakkabıyı denemesi için evine davet etti. Üvey kardeşleri ayakkabıyı giymeye çalıştılar, ancak ayakkabı onlara uymadı.",
+            "Sonunda, Külkedisi'nin evine geldiklerinde, Külkedisi de ayakkabıyı denemek istedi. Üvey annesi ve kız kardeşleri onu engellemek isteseler de, Külkedisi ayakkabıyı giydi ve tam olarak uydu. Prens, Külkedisi'ni tanıdı ve ona tekrar aşık oldu.",
+            "Külkedisi ve prens, mutluluk içinde yaşadılar. Külkedisi, kötü muamele gören bir genç kızdan, aşkı ve mutluluğu bulan bir prenses oldu. Masal, her zaman iyi kalpli insanların ödüllendirileceğini ve zor durumların üstesinden gelebileceğini vurgular."
+          ]
+        },
+        {
+          "title": "Rapunzel",
+          "author": "Grimm Kardeşler",
+          "coverImage": "assets/img/rapunzel.jpg",
+          "urlTag":"rapunzel",
+          "story":[
+            "Bir zamanlar bir çiftçi ve karısı, çocukları olmadığı için çok üzülür. Bir gün, karısı komşu cadının bahçesinde büyüyen güzel bir bitki olan rapunzel'i görür ve ondan yemek ister. Kocası gizlice bahçeye girip bitkiyi çalar, ama cadı onları yakalar. Cadı, çifti affetmek için doğacak çocuklarını ona vermelerini ister. Çaresiz çift kabul eder.",
+            "Çocuk doğduğunda cadı, bebeği alır ve ona Rapunzel adını verir. Rapunzel büyüdükçe güzelleşir, ama cadı onu yüksek bir kuleye hapseder. Kulede kapı yoktur, sadece yukarıdan sarkıtılan bir pencere vardır. Cadı, Rapunzel’in saçlarını kullanarak kuleye tırmanır. Cadı geldiğinde, 'Rapunzel, Rapunzel, saçlarını sarkıt!' der ve Rapunzel uzun, altın sarısı saçlarını aşağıya salar.",
+            "Bir gün, yakışıklı bir prens Rapunzel'in şarkısını duyar ve kuleyi bulur. Rapunzel’in saçlarını kullanarak kuleye tırmanır ve onunla tanışır. İkisi birbirine âşık olur ve kaçış planı yaparlar. Ancak cadı bunu öğrenir ve Rapunzel’i başka bir yere götürür, prensin gözlerini de kör eder.",
+            "Yıllar sonra prens, ormanda kaybolmuş bir şekilde dolaşırken Rapunzel'in sesini duyar. Onu bulur, ve Rapunzel’in gözyaşları prensin gözlerini iyileştirir. Sonunda ikisi birlikte saraya döner ve mutlu bir hayat yaşarlar."
+          ]
+        },
+        {
+          "title": "Uyuyan Güzel",
+          "author": "Charles Perrault",
+          "coverImage": "assets/img/uyuyan-guzel.jpg",
+          "urlTag":"uyuyan-guzel",
+          "story":[
+            "Bir zamanlar, çok güzel bir prenses olan Aurora dünyaya gelmişti. Doğumunda, kraliyet ailesi büyük bir kutlama düzenledi ve tüm krallığın büyücülerini davet etti. Ancak, davet edilmeyen kötü bir cadı olan Malefiz, bu duruma sinirlendi ve baloda Aurora'ya kötü bir lanet bıraktı. Malefiz, prensesin on altı yaşına bastığında, bir iğneye dokunarak derin bir uykuya dalacağını söyledi. Bu uykudan ancak gerçek aşkın öpücüğüyle uyanabilecekti.",
+            "Kötü cadının lanetini önlemek amacıyla, iyiliksever bir periye, Aurora'ya düşman olmayan bir lanet koyma yetkisi verildi. Peri, Malefiz'in lanetini değiştirdi ve Aurora'nın iğneye dokunarak derin bir uykuya dalacağını, fakat bu uyku yüz yıl süreceğini söyledi. Ayrıca, uyandığında etrafında onu koruyan bir prens olacağını da ekledi.",
+            "Zamanla, Aurora on altı yaşına geldi ve kötü kaderinden kaçınmak için peri tarafından saklandığı kalesinden çıkarak gizlice dışarı çıktı. Ancak, bir gün bir iğneyle karşılaştı ve Malefiz’in laneti gerçekleşti. Aurora, derin bir uykuya daldı ve etrafındaki herkes de onunla birlikte uykuya daldı.",
+            "Yıllar geçti ve Aurora'nın hikayesi, krallık dışında yayıldı. Güzel prensesi bulmak için pek çok genç prens geldi, ancak hepsi laneti aşmayı başaramadı. Bir gün, cesur bir prens, Aurora'nın uyuduğu kaleye geldi. Kaleyi saran dikenli çalıları aşarak içeri girdi. Prens, Aurora'yı buldu ve ona aşık oldu. Güzel prensesin yanına geldi ve onu öptü.",
+            "Bu öpücük, Aurora'yı uyandırdı ve lanet sona erdi. Aurora, uykusundan uyanır uyanmaz prensle birbirlerine aşık oldular. Tüm krallık uykusundan uyanırken büyük bir sevinç yaşandı. Aurora ve prens, sonunda birlikte yaşadılar ve mutlu bir hayat sürdüler."
+          ]
+        },
+        {
+          "title": "Kırmızı Başlıklı Kız",
+          "author": "Charles Perrault",
+          "coverImage": "assets/img/kirmizi-baslikli-kiz.jpg",
+          "urlTag":"kirmizi-baslikli-kiz",
+          "story":[
+            "Bir zamanlar, güzel bir kız çocuğu vardı. Herkes ona 'Kırmızı Başlıklı Kız' derdi, çünkü büyükannesi ona güzel bir kırmızı pelerin dikmişti. Bir gün, annesi Kırmızı Başlıklı Kız'a hastalanan büyükannesine götürmesi için bir sepet dolusu yiyecek verdi. Annesi, ormanda dikkatli olmasını ve yoldan sapmamasını söyledi.",
+            "Kırmızı Başlıklı Kız, sepeti alarak yola koyuldu. Yolda giderken, kötü bir kurt ile karşılaştı. Kurt, Kırmızı Başlıklı Kız'ın nereye gittiğini sordu. Kız, büyükannesinin evine gittiğini söyledi. Kurt, bu fırsatı değerlendirdi ve Kırmızı Başlıklı Kız’ı kandırarak önce büyükannenin evine gitti.",
+            "Kurt, büyükannenin evine ulaştığında, kapıyı çaldı. Büyükannesi kapıyı açınca, kurt onu yuttu ve hemen yatağa yattı. Kısa bir süre sonra Kırmızı Başlıklı Kız, büyükannesinin evine vardı. Kapıyı çaldı ve içeri girdi. Ancak, büyükannesinin çok garip göründüğünü fark etti.",
+            "Kırmızı Başlıklı Kız, 'Büyükanne, neden bu kadar büyük gözlerin var?' dedi. Kurt, 'Seni daha iyi görebilmek için,' diye cevapladı. Kırmızı Başlıklı Kız sorularına devam etti, 'Büyükanne, neden bu kadar büyük kulakların var?' Kurt yine, 'Seni daha iyi duyabilmek için,' dedi. Son olarak, 'Büyükanne, neden bu kadar büyük bir ağzın var?' dediğinde kurt, 'Seni daha iyi yemek için!' diyerek ortaya çıktı.",
+            "Tam o anda, Kırmızı Başlıklı Kız, kurtun gerçek yüzünü gördü. Ancak tam kurt onu yakalamak üzereyken, ormandan bir avcı geçiyordu. Avcı, içeri girerek kurtu durdurdu ve Kırmızı Başlıklı Kız ile büyükannesini kurtardı.",
+            "Kırmızı Başlıklı Kız ve büyükannesi kurtulduktan sonra, Kırmızı Başlıklı Kız, bir daha asla yoldan sapmamaya ve annesinin sözünü dinlemeye karar verdi."
+          ]
+        },
+        {
+          "title": "Hansel ve Gretel",
+          "author": "Grimm Kardeşler",
+          "coverImage": "https://example.com/hansel-gretel.jpg",
+          "urlTag":"hansel-ve-gretel",
+          "story":[
+            "Bir zamanlar, ormanın kenarındaki küçük bir kulübede yaşayan fakir bir oduncu, karısı ve iki çocuğu Hansel ve Gretel vardı. Aile çok fakirdi ve bir gün üvey anne, çocukları ormanda bırakmaları gerektiğini çünkü artık onlara bakamayacaklarını söyler. Babaları istemese de, annelerinin ısrarı üzerine kabul eder.",
+            "Hansel, anne ve babasının planını gizlice duyar ve ormana giderken cebine küçük taşlar doldurur. Çocuklar ormanda bırakıldıklarında, Hansel yolda taşları arkasına bırakarak eve geri dönebilecekleri bir yol oluşturur. Gece olduğunda taşların parıltısı sayesinde eve dönerler. Ancak, üvey anne planını tekrarlamaya karar verir. Bu sefer Hansel ve Gretel ormanda çok daha uzağa götürülür ve Hansel, taş yerine ekmek kırıntıları bırakır. Fakat kuşlar kırıntıları yer, bu yüzden çocuklar kaybolur.",
+            "Ormanda dolaşırken Hansel ve Gretel, şekerden, kekten ve kurabiyeden yapılmış bir ev bulurlar. Aç ve yorgun oldukları için evi yemeye başlarlar. Ancak bu ev, yaşlı bir cadının tuzağıdır. Cadı, onları eve davet eder ve Hansel’i bir kafese hapseder. Cadı, Hansel'i şişmanlatıp yedikten sonra Gretel'i de öldürmeyi planlamaktadır.",
+            "Gretel zeki davranır ve cadının fırınına bakarken onu fırına itip kapıyı kapatır. Cadıyı yendikten sonra Hansel'i serbest bırakır ve evde buldukları altın ve değerli eşyalarla eve dönerler. Babaları onları sevinçle karşılar, çünkü kötü üvey anne gitmiştir. Artık zengin olmuşlardır ve hep birlikte mutlu bir yaşam sürerler."
+          ]
+        },
+        {
+          "title": "Çirkin Ördek Yavrusu",
+          "author": "Hans Christian Andersen",
+          "coverImage": "https://example.com/cirkin-ordek-yavrusu.jpg",
+          "urlTag":"cirkin-ordek-yavrusu",
+          "story":[
+            "Bir çiftlikte bir ördek, yumurtalarından çıkan yavrularına bakar. Ancak yumurtalardan biri çok büyük ve farklıdır. Sonunda o büyük yumurtadan diğerlerinden farklı bir yavru çıkar. Diğer ördek yavrularına göre daha iri, gri ve çirkin görünmektedir. Diğer ördekler ve çiftlik hayvanları ona sürekli alay eder, onu küçümser ve dışlarlar. Yavru ördek kendini çok yalnız ve mutsuz hisseder.",
+            "Zamanla, çirkin ördek yavrusu bu duruma dayanamaz hale gelir ve çiftlikten kaçar. Ormanda, başka hayvanlarla karşılaşır ama her seferinde yine dışlanır. Kış gelir ve çirkin ördek yavrusu soğuk havada hayatta kalmak için büyük bir mücadele verir.",
+            "Nihayet, bahar geldiğinde ördek yavrusu bir göl kenarına ulaşır. Suyun yüzeyinde zarif ve güzel kuğuların süzüldüğünü görür. Onlara hayran hayran bakarken suya doğru eğilir ve sudaki yansımasına bakar. O da bir kuğuya dönüşmüştür! Meğer baştan beri o, bir ördek değil, bir kuğuymuş, ama bunu kimse fark etmemişti. Artık dışlanmadığı gibi, herkes güzelliğine hayran kalır.",
+            "Çirkin Ördek Yavrusu masalı, sabrın ve zamanın, kişinin gerçek kimliğini bulmasına yardımcı olacağını vurgular. Farklılıklarımızın aslında bizi özel ve güzel kılabileceği mesajını taşır."
+          ]
+        },
+        {
+          "title": "Kibritçi Kız",
+          "author": "Hans Christian Andersen",
+          "coverImage": "https://example.com/kibritci-kiz.jpg",
+          "urlTag":"kibritci-kiz",
+          "story":[
+            "Soğuk bir kış gecesi, yılbaşı arifesinde, karın altında küçük bir kız çocuğu sokaklarda dolaşmaktadır. Üstü başı yırtık ve inceciktir; ayakları çıplaktır çünkü ayakkabılarını kaybetmiştir. Küçük kız, elinde sattığı kibritleri tutmaktadır ama o gün hiç kimse ondan kibrit satın almamıştır. Aç, üşümüş ve yalnız olan bu küçük kız, korkarak eve dönmek istemez çünkü babası ona kızacaktır.",
+            "Küçük kız bir köşeye çekilir ve donmamak için bir kibrit çakmaya karar verir. Kibriti yaktığında bir anda önünde sıcacık bir soba belirir. Elleriyle ısınmaya çalışır, ama kibrit söndüğünde soba kaybolur. Küçük kız bir kibrit daha çakar ve bu kez muhteşem bir ziyafet sofrası görür. Açlıktan karnı guruldarken, ona doğru gelen sıcak yemekleri hayal eder, fakat kibrit söner ve yemek de kaybolur.",
+            "Bir kibrit daha yaktığında ise yılbaşı ağacı ve ışıklar görür, ama kibrit tekrar sönünce o da kaybolur. Sonunda küçük kız son kibritini yakar ve bu sefer karşısında sevgi dolu büyükannesini görür. Büyükannesi ona şefkatle gülümser ve onu yanına çağırır. Küçük kız, büyükannesine sarılmak için kibritleri birer birer yakmaya devam eder, çünkü büyükannesi gitmesin istemektedir.",
+            "Sonunda büyükannesi, küçük kızı kollarına alır ve onu yanına götürür. Ertesi sabah, küçük kız soğuktan donarak hayatını kaybetmiştir, ama ruhu artık acı çekmeyecek bir yerde, büyükannesiyle huzur içinde olacaktır."
+          ]
+        }
+      ]
+    },
+    "COMPONENTS": {
+        "footer": {
+          "header": "  Ürünlerle ilgili bilgi almak için formu doldurun!",
+          "button": "Bilgi Al",
+          "name": "KRİSTAL ENDÜSTRİYEL MUTFAK ÇAMAŞIRHANE MAKİNE PAZARLAMA SAN. VE TİC. A.Ş.",
+          "contact-info": {
+            "title": "İletişim Bilgileri",
+            "details": [
+              {
+                "title": "Adresimiz",
+                "desc": "Organize Sanayi Bölgesi 1. Kısım 2. Cadde 07190 Antalya, Türkiye"
+              },
+              {
+                "title": "Telefon Numaramız",
+                "desc": "90 242 258 00 22"
+              },
+              {
+                "title": "Faks Numaramız",
+                "desc": "+90 242 258 00 68"
+              },
+              {
+                "title": "E-posta Adresimiz",
+                "desc": "info@crystal.com.tr"
+              },
+              {
+                "title":"Müşteri Memnuniyeti Anketi Formu",
+                "desc":"Forma buradan ulaşabilirsiniz"
+              }
+            ]
+          },
+        
+          "pages": {
+            "title": "Sayfalar",
+            "menu": [
+              {
+                "title": "Anasayfa",
+                "url": "",
+                "icon": "home"
+              },
+              {
+                "title": "Ürünler",
+                "url": "/products",
+                "icon": "list"
+              },
+              {
+                "title": "İletişim",
+                "url": "/contact",
+                "icon": "chatbubbles"
+              }
+            ]
+          },
+          "copyright": "Copyright ©2024 Crystal Ind. Inc. All rights reserved."
+        }
+     }
+}
