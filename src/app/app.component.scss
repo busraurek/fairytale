@@ -42,7 +42,7 @@
 
         .header-item a {
           text-decoration: none;
-          color: var(--ion-color-fairytale-dark);
+          color: rgb(129, 92, 48);
           font-size: 28px;
           font-weight: 600;
           height: 100%;
@@ -50,12 +50,12 @@
         }
 
         .header-item a:hover {
-          color: #e9921f;
+          color: rgb(82, 56, 27);
           transform: scale(1.1);
         }
 
         .header-item a.selected {
-          color: #e9921f;
+          color: rgb(82, 56, 27);
           font-weight: 700;
         }
       }
@@ -65,7 +65,7 @@
 
 .mobile {
   ion-toolbar {
-    --background: linear-gradient(to right, #ffdaec, #d6effe);
+    --background: rgba(218, 219, 221, 0.4);
     .mobileLogo {
       width: 100px;
       height: 50px;

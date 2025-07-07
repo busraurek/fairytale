@@ -52,14 +52,14 @@ export class HomePage implements OnInit {
     this.swiper = new Swiper('.swiper-container-banner', {
       loop: true,
       speed: 1300,
-      parallax: false,
-      grabCursor: true,
+      // parallax: false,
+      // grabCursor: true,
       effect: 'slide',
-      autoplay: {
-        delay: 8000,
-        disableOnInteraction: false,
-      },
-      watchSlidesProgress: true,
+      // autoplay: {
+      //   delay: 8000,
+      //   disableOnInteraction: false,
+      // },
+      // watchSlidesProgress: true,
       pagination: {
         el: '.swiper-pagination',
         clickable: true,
